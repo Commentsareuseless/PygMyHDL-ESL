@@ -1,1 +1,1 @@
-# PygMyHDL-ESL
+# PygMyHDL-ESL Lab
